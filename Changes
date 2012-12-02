@@ -1,5 +1,16 @@
 Revision history for Perl library CPAN-Testers-Fact-PlatformInfo
 ================================================================
 
-1.00    25/05/2011
+1.01    2012-12-02
+        - change file dates changed to meet W3CDTF standards.
+        - upgraded test suite.
+        - reworked Makefile.PL for clarity.
+        - added minimum perl version (5.006).
+        - added missing prerequisite.
+        - META tests no longer require specific versions.
+        - added Colin's PAUSE ID.
+        - README rewritten.
+        - new test script to bring coverage to 100%.
+
+1.00    2011-05-25
         - initial release.
