@@ -1,6 +1,6 @@
 {
     "name": "CPAN-Testers-Fact-PlatformInfo",
-    "version": "1.01",
+    "version": "1.02",
     "abstract": "Platform information on which a CPAN Testers smoker is running",
     "author": [
         "Barbie (BARBIE) <barbie@cpan.org>",
@@ -48,7 +48,7 @@
     "provides": {
         "CPAN::Testers::Fact::PlatformInfo": {
             "file": "lib/CPAN/Testers/Fact/PlatformInfo.pm",
-            "version": "1.01"
+            "version": "1.02"
         }
     },
     "no_index": {
@@ -56,7 +56,7 @@
     },
 
     "resources": {
-        "license": "http://dev.perl.org/licenses/",
+        "license": "http://www.perlfoundation.org/artistic_license_2_0",
         "bugtracker": { "web": "http://rt.cpan.org/Public/Dist/Display.html?Name=CPAN-Testers-Fact-PlatformInfo" },
         "repository": {
             "url": "git://github.com/barbie/cpan-testers-fact-platforminfo.git",
